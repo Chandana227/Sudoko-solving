@@ -15,5 +15,5 @@ Getting Started
 Clone the repository to your local machine using:
 bash
 Copy code
-git clone https://github.com/your-username/sudoku-solver.git
-Open index.html in your web browser to start using the application.
+git clone https://github.com/Chandana227/Sudoku-solving.git
+Open Main.html in your web browser to start using the application.
